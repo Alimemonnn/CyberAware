@@ -56,9 +56,16 @@ export function Header() {
             <Shield className="h-5 w-5 text-primary" />
             <span className="absolute -top-0.5 -right-0.5 h-2 w-2 rounded-full bg-success ring-2 ring-background" />
           </span>
-          <span className="font-display text-xl font-bold tracking-tight">
-            Cyber<span className="text-gradient">Aware</span>
+          
+          <span className="flex flex-col">
+            <span className="font-display text-xl font-bold tracking-tight">
+              Cyber<span className="text-gradient">Aware</span>
+            </span>
+            <span className="text-[10px] text-muted-foreground tracking-widest uppercase">
+              Developed by <span className="text-primary">Muhammad Ali</span>
+            </span>
           </span>
+
         </a>
 
         {/* Desktop Nav */}
