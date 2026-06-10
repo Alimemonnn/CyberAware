@@ -30,7 +30,7 @@ export function Contact() {
                 onChange={(e) => setForm({ ...form, name: e.target.value })}
                 maxLength={100}
                 className="w-full rounded-xl bg-background/60 border border-input px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-primary/60"
-                placeholder="Jane Doe"
+                placeholder="Muhammad Ali Memon"
                 required
               />
             </div>
@@ -42,7 +42,7 @@ export function Contact() {
                 onChange={(e) => setForm({ ...form, email: e.target.value })}
                 maxLength={255}
                 className="w-full rounded-xl bg-background/60 border border-input px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-primary/60"
-                placeholder="jane@example.com"
+                placeholder="Alimemon@example.com"
                 required
               />
             </div>
