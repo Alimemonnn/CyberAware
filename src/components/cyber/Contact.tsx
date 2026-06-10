@@ -67,7 +67,7 @@ export function Contact() {
             {sent ? <><CheckCircle2 className="h-4 w-4" /> Sent — thank you!</> : <><Send className="h-4 w-4" /> Send message</>}
           </button>
           <p className="text-xs text-muted-foreground inline-flex items-center gap-1.5">
-            <Mail className="h-3 w-3" /> Or email us at <span className="text-primary">hello@cyberaware.app</span>
+            <Mail className="h-3 w-3" /> Or email us at <span className="text-primary">malimemon2006@gmail.com</span>
           </p>
         </form>
       </div>
