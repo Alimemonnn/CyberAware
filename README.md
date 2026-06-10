@@ -64,6 +64,12 @@ Common threats include:
 
 CyberAware helps users stay safe online through awareness and education.
 
+---
+
+## 🌐 Live Demo
+
+
+🔗 Live Project: https://cyberaware-mauve.vercel.app
 
 
 ---
@@ -142,40 +148,6 @@ CyberAware helps users stay safe online through awareness and education.
 
 
 
-## 🏗️ System Architecture
-
-
-
-```text
-
-User
-
- │
-
- ▼
-
-CyberAware Web App
-
- │
-
- ▼
-
-Cybersecurity Learning Modules
-
- │
-
- ▼
-
-Interactive Awareness Experience
-
-```
-
-
-
----
-
-
-
 ## 📂 Project Structure
 
 
@@ -195,18 +167,6 @@ src/
 └── start.ts
 
 ```
-
-
-
----
-
-
-
-## 🌐 Live Demo
-
-
-
-🔗 Live Project: https://cyberaware-mauve.vercel.app
 
 
 
@@ -237,7 +197,6 @@ src/
 ## 🚀 Future Plans
 
 
-
 - Cybersecurity quizzes
 
 - AI phishing detector
@@ -249,13 +208,10 @@ src/
 - Multi-language support
 
 
-
 ---
 
 
-
 ## 👨‍💻 Author
-
 
 
 **Muhammad Ali**
@@ -264,16 +220,13 @@ src/
 
 - GitHub: https://github.com/Alimemonnn
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-ali-95436038b
-
+- LinkedIn: https://www.linkedin.com/in/muhammadali-coder
 
 
 ---
 
 
-
 ## ⭐ Support
-
 
 
 If you like this project:
@@ -285,9 +238,7 @@ If you like this project:
 - 📢 Share it
 
 
-
 ---
-
 
 
 **Made with ❤️ for Indus Week 2026 Hackathon**
