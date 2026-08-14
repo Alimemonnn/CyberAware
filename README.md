@@ -220,7 +220,7 @@ src/
 
 - GitHub: https://github.com/Alimemonnn
 
-- LinkedIn: https://www.linkedin.com/in/muhammadali-coder
+- LinkedIn: https://www.linkedin.com/in/alimemonnn
 
 
 ---
