@@ -5,7 +5,6 @@
 > An interactive cybersecurity awareness platform designed to educate users about online threats, digital safety, and cybersecurity best practices.
 
 
-
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safe-blue)
